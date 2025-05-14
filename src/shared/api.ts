@@ -878,7 +878,7 @@ export const openAiNativeModels = {
 		cacheReadsPrice: 0.025,
 	},
 	o3: {
-		maxTokens: 100_000,
+		maxTokens: 32_768,
 		contextWindow: 200_000,
 		supportsImages: true,
 		supportsPromptCache: true,
@@ -888,7 +888,7 @@ export const openAiNativeModels = {
 		reasoningEffort: "medium",
 	},
 	"o3-high": {
-		maxTokens: 100_000,
+		maxTokens: 32_768,
 		contextWindow: 200_000,
 		supportsImages: true,
 		supportsPromptCache: true,
@@ -898,7 +898,7 @@ export const openAiNativeModels = {
 		reasoningEffort: "high",
 	},
 	"o3-low": {
-		maxTokens: 100_000,
+		maxTokens: 32_768,
 		contextWindow: 200_000,
 		supportsImages: true,
 		supportsPromptCache: true,
@@ -968,7 +968,7 @@ export const openAiNativeModels = {
 		reasoningEffort: "low",
 	},
 	o1: {
-		maxTokens: 100_000,
+		maxTokens: 32_768,
 		contextWindow: 200_000,
 		supportsImages: true,
 		supportsPromptCache: true,

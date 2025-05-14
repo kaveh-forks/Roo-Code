@@ -30,7 +30,7 @@
 		"terminal": "Terminal",
 		"experimental": "Experimental",
 		"language": "Language",
-		"about": "About Roo Code"
+		"about": "About Roo Code - No Truncate"
 	},
 	"autoApprove": {
 		"description": "Allow Roo to automatically perform operations without requiring approval. Enable these settings only if you fully trust the AI and understand the associated security risks.",
